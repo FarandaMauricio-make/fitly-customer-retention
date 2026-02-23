@@ -106,4 +106,6 @@ Push para a Branch.
 
 Abra um Pull Request.
 
+Pode conferir no Dashboard no seguinte link: [fitly-customer-retention](https://fitly-customer-retention.onrender.com)
+
 Construindo produtos melhores através de Dados. 📊
